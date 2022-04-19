@@ -47,13 +47,4 @@ I'm passionate about the web and I'm always trying my best to create the greates
 
 ***
 
-### Portfolio & Socials
-
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-
-***
-
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=muresan-gabriel&show_icons=true&theme=midnight-purple)
