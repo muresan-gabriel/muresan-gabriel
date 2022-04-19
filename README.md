@@ -46,6 +46,7 @@ Besides programming, I'm passionate about graphic design. I've been freelancing 
 ### Deployment & Hosting
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
 ***
 
