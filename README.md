@@ -17,7 +17,7 @@ Besides programming, I'm passionate about graphic design. I've been freelancing 
 ### Personal Projects
 
 * [Personal Portfolio](https://github.com/muresan-gabriel/muresan-gabriel.github.io) - Personal website used to showcase my work, both in development and graphic design.
-* [dev.lib](https://github.com/muresan-gabriel/dev.lib) - Platform of open-source assets for developers and graphic designers.
+* [dev.lib](https://devlibproject.netlify.app/) - Platform of open-source assets for developers and graphic designers.
 * [burg-o-licious](https://github.com/muresan-gabriel/burg-o-licious) - React application used to find the most delicious burgers in Romania.
 
 ***
