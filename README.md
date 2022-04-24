@@ -18,7 +18,7 @@ Besides programming, I'm passionate about graphic design. I've been freelancing 
 
 * [Personal Portfolio](https://github.com/muresan-gabriel/muresan-gabriel.github.io) - Personal website used to showcase my work, both in development and graphic design.
 * [dev.lib](https://devlibproject.netlify.app/) - Platform of open-source assets for developers and graphic designers.
-* [burg-o-licious](https://github.com/muresan-gabriel/burg-o-licious) - React application used to find the most delicious burgers in Romania.
+* [Learning Blog](#) - MERN Stack Application (currently unhosted, waiting for AWS services to fully activate on my new account) created after following a fullstack development course on LinkedIn Learning. This application will eventually be used to write certain details, such as achivements and struggles I've encountered on my way to learn more about web development.
 
 ***
 
@@ -27,9 +27,14 @@ Besides programming, I'm passionate about graphic design. I've been freelancing 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+·
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+·
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ***
 
@@ -40,6 +45,7 @@ Besides programming, I'm passionate about graphic design. I've been freelancing 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ***
 
@@ -47,6 +53,7 @@ Besides programming, I'm passionate about graphic design. I've been freelancing 
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 
 ***
 
