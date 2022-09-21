@@ -20,7 +20,6 @@ Besides programming, I'm passionate about graphic design. I've been freelancing 
 * [Old Personal Portfolio](https://github.com/muresan-gabriel/muresan-gabriel.github.io) - Personal website used to showcase my work, both in development and graphic design.
 * [La moară](https://github.com/muresan-gabriel/la-moara-cognizant-softvision) - The project was created to submit homeworks throughout the course's sessions. The idea is to build a fullstack application of a childhood game called 'Nine Men's Morris' or 'La moară / Țintar'.
 * [dev.lib](https://devlibproject.netlify.app/) - Platform of open-source assets for developers and graphic designers.
-* [Learning Blog](#) - MERN Stack Application (currently unhosted, waiting for AWS services to activate) created after following a fullstack development course on LinkedIn Learning. This application will eventually be used to write certain details, such as achivements and struggles I've encountered on my way to learn more about web development.
 
 ***
 
