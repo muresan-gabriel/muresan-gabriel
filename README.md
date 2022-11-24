@@ -10,7 +10,7 @@ I aim to create fantastic and flawless web experiences.
 
 I'm passionate about the web and I'm always trying my best to create the greatest experience for the end-user. 
 
-Besides programming, I'm passionate about graphic design. I've been freelancing as a graphic designer for more than two years.
+Besides programming, I'm passionate about graphic design.
 
 ***
 
