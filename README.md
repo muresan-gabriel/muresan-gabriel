@@ -54,6 +54,3 @@ Besides programming, I'm passionate about graphic design.
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
 
-***
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=muresan-gabriel&show_icons=true&theme=midnight-purple)
