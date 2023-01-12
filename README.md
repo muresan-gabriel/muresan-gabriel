@@ -1,20 +1,20 @@
 ### 👋 Hello! I'm Gabriel.
 
-I'm a Software Engineer @ Computacenter and a Computer Science student @ the Technical University of Cluj-Napoca.
+💼 I'm a Software Engineer @ Computacenter and a Computer Science student @ the Technical University of Cluj-Napoca.
 
-I aim to create fantastic and flawless web experiences and learn more about web systems' architecture.
+🎯 I aim to create fantastic and flawless web experiences and learn more about web systems' architecture.
 
 ***
 
 ### About me
 
-I spent countless hours on graphic design, before focusing on development, which brough a huge advantage to me, as a developer, when building UIs for web applications.
+🎨 I spent countless hours on graphic design, before focusing on development, which proved to be a huge "assisting hand" to me, as a developer, when building UIs for web applications.
 
-I am continously researching and trying to learn more about the web, trying to follow best practices, studying various topics, from OOP, design patters, software architectural patterns, networking, and much more.
+🧪 I am continously researching and trying to learn more about the web, trying to follow best practices, studying various topics, from OOP, design patters, software architectural patterns, networking, and much more.
 
-I am experienced with building REST APIs using Node.js and express.js and I have a solid understanding of HTTP methods, requests, responses and overall, Client-Server communication.
+📦 I am experienced with building REST APIs using Node.js and express.js and I have a solid understanding of HTTP methods, requests, responses and overall, Client-Server communication.
 
-I am familiar with React and AngularJS and I am able to create web applications with interactive, dynamic, and good-looking UIs.
+💻 I am familiar with React and AngularJS and I am able to create web applications with interactive, dynamic, and good-looking UIs.
 Besides JS frameworks and libraries, I am also familiar with CSS frameworks and preprocessors, such as Bootstrap, TailwindCSS, and SCSS, LESS, respectively.
 
 ***
@@ -28,9 +28,12 @@ Besides JS frameworks and libraries, I am also familiar with CSS frameworks and 
 
 ### Certifications
 
-* [CAD] - Certified Application Developer - Issued by ServiceNow
-* [CSA] - Certified System Administrator - Issued by ServiceNow
-* [Microcertifications] - Integration Hub / Performance Analytics / Service Portal
+* Certified Application Developer (CAD) - Issued by ServiceNow
+* Certified System Administrator (CSA) - Issued by ServiceNow
+* Microcertifications
+  * Integration Hub
+  * Performance Analytics
+  * Service Portal
 
 ***
 
