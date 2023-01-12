@@ -1,24 +1,36 @@
 ### 👋 Hello! I'm Gabriel.
 
-I'm a frontend developer and a computer science student.
+I'm a Software Engineer @ Computacenter and a Computer Science student @ the Technical University of Cluj-Napoca.
 
-I aim to create fantastic and flawless web experiences.
+I aim to create fantastic and flawless web experiences and learn more about web systems' architecture.
 
 ***
 
 ### About me
 
-I'm passionate about the web and I'm always trying my best to create the greatest experience for the end-user. 
+I spent countless hours on graphic design, before focusing on development, which brough a huge advantage to me, as a developer, when building UIs for web applications.
 
-Besides programming, I'm passionate about graphic design.
+I am continously researching and trying to learn more about the web, trying to follow best practices, studying various topics, from OOP, design patters, software architectural patterns, networking, and much more.
+
+I am experienced with building REST APIs using Node.js and express.js and I have a solid understanding of HTTP methods, requests, responses and overall, Client-Server communication.
+
+I am familiar with React and AngularJS and I am able to create web applications with interactive, dynamic, and good-looking UIs.
+Besides JS frameworks and libraries, I am also familiar with CSS frameworks and preprocessors, such as Bootstrap, TailwindCSS, and SCSS, LESS, respectively.
 
 ***
 
 ### Personal Projects
 
-* [Current Personal Portfolio](https://gabrielmuresan.site/) - React Application used to showcase work, both in development and graphic design.
-* [Old Personal Portfolio](https://github.com/muresan-gabriel/muresan-gabriel.github.io) - Personal website used to showcase my work, both in development and graphic design.
-* [dev.lib](https://devlibproject.netlify.app/) - Platform of open-source assets for developers and graphic designers.
+* [SkillUp](https://www.gabrielmuresan.com/portfolio/skillup) - Learning Management System built in a ServiceNow instance, with a strong focus on the Service Portal (which uses AngularJS and Bootstrap for the frontend and the ServiceNow GlideAPI for the 'backend', which was mostly used for server-side logic and data-fetching).
+* [Personal Portfolio](https://www.gabrielmuresan.com) - React Application used to showcase work, both in development and graphic design.
+* [dev.lib](https://www.gabrielmuresan.com/portfolio/dev-lib) - Platform of open-source assets for developers and graphic designers built in PHP.
+
+
+### Certifications
+
+* [CAD] - Certified Application Developer - Issued by ServiceNow
+* [CSA] - Certified System Administrator - Issued by ServiceNow
+* [Microcertifications] - Integration Hub / Performance Analytics / Service Portal
 
 ***
 
